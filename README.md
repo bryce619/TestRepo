@@ -1,2 +1,2 @@
 # TestRepo
-B. Hall - goal: gain knowledge required to obtain a role as a data scientist .
+B. Hall - Applied Math Grad | Transitioning to Data Science | Small Business Owner with Analytical Focus
